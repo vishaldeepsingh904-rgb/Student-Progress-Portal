@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+student_portal.db
+student_portal.db-shm
+student_portal.db-wal
+__pycache__/
+.venv/
